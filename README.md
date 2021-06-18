@@ -61,7 +61,7 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-To acess the layout, use this. [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
+To acess the layout, use [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
 
 ## :information_source: How To Use
 
