@@ -43,7 +43,8 @@
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
+    <img alt="Login-Page" title="Login-Page" src="![previewBeThe](https://user-images.githubusercontent.com/79532045/122604246-041c7d80-d04c-11eb-9e7a-3892285d9ed6.jpg)
+" width="500px" />
 </h1>
 
 ## :video_camera: Preview
